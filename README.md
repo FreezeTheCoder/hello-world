@@ -1,2 +1,2 @@
 # hello-world
-Hello there.
+Hello there. My name is Sid and this is my first repository. :p
